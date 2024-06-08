@@ -1,0 +1,205 @@
+body {
+   background-color: rgb(151, 177, 195);
+    left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: rgb(21, 21, 21);
+   
+
+}
+
+ button {
+    background-color: rgb(204, 217, 230);
+    border-radius: 40px 50px 45px 45px;
+    border-bottom: 100px;
+    transition: transform 0.3 ease;
+    width: 140px;
+    text-align: center;
+   font-size: 20px;
+  
+
+   cursor: pointer;
+
+ }
+
+
+.bot {
+    position: absolute;
+    right: 770px;
+    }
+
+.bt {
+    position: absolute;
+    right: 620px;
+}
+.kjl{
+    position: absolute;
+    right: 470px;
+     top: 136px;
+}
+.button:hover {
+   transform: scale(1.2);
+   
+}
+fieldset {
+    background-image: url(Hot_Wheels_-_Desktop_1.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.cot{
+    background-image: url(apps.16718.13809884802748428.9d13e6e0-9431-4999-8c1f-7daafbb9a665.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 300px;
+    top: -550px;
+    left: 1025px;
+    height: 155px;
+    position: relative;
+
+}
+.hto{
+    background-image: url(images\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 300px;
+    top: -710px;
+    left: 4px;
+    height: 155px;
+    position: relative;
+
+}
+
+.cua{
+    background-image: url(FH5-HotWheels_Expansion-01-16x9_WM-cfa9d1adbb0dfbf39aeb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 500px;
+    top: -290px;
+    left: 100px;
+    height: 390px;
+    position: relative;
+
+}
+
+.cad{
+    background-image: url(FH-Hot-Wheels-Expansion-Pack-9-1400x787.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 500px;
+    top: -685px;
+    left: 690px;
+    height: 390px;
+    position: relative;
+
+}
+
+.nos{
+    position: absolute;
+      margin-top:  -80px;
+}
+   
+h2{
+    font-size: 35px;
+    color: rgb(4, 54, 54);
+    text-align: center;
+    background-color: rgb(77, 115, 169);
+}
+
+h3{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(210, 190, 156);
+}
+p{
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+    color: rgb(3, 47, 47);
+}
+h5{
+    font-size: 25px;
+    color: rgb(3, 47, 47)
+}
+
+.lum{
+    position: absolute;
+      margin-top:  -80px;
+
+}
+.luo{
+    position: absolute;
+      margin-top:  -900px;
+
+}
+.ulm{
+    position: absolute;
+      margin-top:  -80px;
+      left: 160px;
+}
+.hello{
+    text-align: center;
+}
+.anim{
+    position: absolute;
+      margin-top:  -47px;
+      right: 1130px;
+}
+.cul{
+    text-align: center;
+}
+.fit{
+    background-image: url(imgen_figuraaaaaa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 256px;
+    top: 10px;
+    left: 70px;
+    height: 380px;
+    position: relative;
+
+}
+.jhd{
+    background-image: url(OIP\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 270px;
+    top: -360px;
+    left: 480px;
+    height: 340px;
+    position: relative;
+
+}
+.lio{
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid skyblue;
+    width: 333px;
+    top: -700px;
+    left: 880px;
+    height: 340px;
+    position: relative;
+}
+.iuh{
+    background-image: url(daadghyu.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 333px;
+    top: -770px;
+    left: 500px;
+    height: 340px;
+    position: relative;
+}
